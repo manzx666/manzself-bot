@@ -1,0 +1,11 @@
+{
+    "name": "TECH_TITAN",
+    "version": "0.0.0",
+    "description": "Levanter WhatsApp Bot",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "𓆰𝞖𝞓𝞛𝙕𝞓𓆪",
+    "license": "MIT"
+}
